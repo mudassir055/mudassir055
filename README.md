@@ -29,7 +29,7 @@
 
 <h3 align="left">🧠 AI / LLM Stack:</h3>
 <p align="left">
-<a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZpEGeu9GgB8BuAty_4PJylmNNJdNRnLIY899FGDX2RiiLkiY8OUb3FYTR&s=10" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="openai" width="40" height="40"/> </a>
+<a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZpEGeu9GgB8BuAty_4PJylmNNJdNRnLIY899FGDX2RiiLkiY8OUb3FYTR&s=10" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZpEGeu9GgB8BuAty_4PJylmNNJdNRnLIY899FGDX2RiiLkiY8OUb3FYTR&s=10" alt="openai" width="40" height="40"/> </a>
 <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/langchain-ai/.github/main/profile/logo-dark.svg" alt="langchain" width="80" height="40"/> </a>
 <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/> </a>
 <a href="https://n8n.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/n8n_io/n8n_io-icon.svg" alt="n8n" width="40" height="40"/> </a>
